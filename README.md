@@ -1,1 +1,1 @@
-![Banner](StarryNight.jpg)
+<img src="StarryNight.jpg" style="width:100%; height:auto;" />
