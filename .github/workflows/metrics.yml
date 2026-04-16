@@ -15,3 +15,5 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Saigon
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
